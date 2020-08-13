@@ -1,0 +1,141 @@
+body{
+text-align: center;
+font-size: 150%;
+}
+p{
+justify-content: center;
+font-family: 'Satisfy', cursive;
+}
+
+h1{
+  width: 70%;
+  margin: 50px auto 0 auto;
+  font-size: 5.300rem;
+  font-family: 'Sacramento', cursive;
+  color: #251f44;
+}
+h2{
+  /*font-family: 'Montserrat', sans-serif;*/
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #251f44;
+  line-height: 2px;
+}
+h3{
+  font-family: 'Courgette', cursive;
+  color: #848ccf;
+}
+a{
+  font-family: 'Courgette', cursive;
+  color: #848ccf;
+}
+ul{
+  font-family: 'Satisfy', cursive;
+}
+hr{
+    border-color:grey;
+     border-width: 5px;
+     width: 15%;
+     border-style: none;
+     border-top-style: dotted;
+}
+.box1{
+  background-color: #ffe0f7;
+  width: 100%;
+  padding-top: 120px;
+  }
+.box2{
+  line-height: 4;
+}
+.box3{
+
+
+}
+.certi{
+  line-height: 4;
+}
+.cloud{
+  position: absolute;
+  right:130px;
+  top:100px;
+}
+.cloud1{
+  position: absolute;
+  left: 160px;
+top:300px;
+}
+.skill-img{
+  border-radius: 100px;
+  height: 150px;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+
+}
+.skill1-img{
+  border-radius: 100px;
+  height :200px;
+  width :30%;
+  float: left;
+  margin-right: 30px;
+}
+.php{
+  float: right;
+  width: 30%;
+  margin-left: 30px;
+}
+.mobile-img{
+  float: left;
+  width: 30%;
+  margin-right: 30px;
+}
+.program-img{
+  border-radius: 100px;
+  float: right;
+  width: 30%;
+  margin-left: 30px;
+
+}
+.interest-img{
+  border-radius: 100px;
+  float: right;
+  width: 30%;
+  margin-left: 30px;
+}
+.nptel-img{
+  height: 40px;
+  float: left;
+  margin-right: 30px;
+}
+.internshala-img{
+  height: 50px;
+  float: right;
+  margin-left: 30px;
+
+}
+.mta-img{
+  margin-right: 30px;
+  height: 90px;
+  float: left;
+}
+.spoken{
+  position: relative;
+}
+.spoken-img{
+
+  /*float: right;
+  margin-left: 70px;*/
+  position: absolute;
+  left: 500px;
+  top: 100px;
+}
+.face{
+  border-radius: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
